@@ -1,29 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\InterLinkCamp\\endpoints\\endpoints.csproj": {}
+    "/home/intern/Desktop/HTTP/endpoints/endpoints.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\InterLinkCamp\\endpoints\\endpoints.csproj": {
+    "/home/intern/Desktop/HTTP/endpoints/endpoints.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\InterLinkCamp\\endpoints\\endpoints.csproj",
+        "projectUniqueName": "/home/intern/Desktop/HTTP/endpoints/endpoints.csproj",
         "projectName": "endpoints",
-        "projectPath": "C:\\Users\\user\\InterLinkCamp\\endpoints\\endpoints.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\InterLinkCamp\\endpoints\\obj\\",
+        "projectPath": "/home/intern/Desktop/HTTP/endpoints/endpoints.csproj",
+        "packagesPath": "/home/intern/.nuget/packages/",
+        "outputPath": "/home/intern/Desktop/HTTP/endpoints/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/intern/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -34,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

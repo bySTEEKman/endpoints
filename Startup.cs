@@ -74,7 +74,7 @@ namespace endpoints
                     frequency.GetFrequencyWords(raw);
 
                     context.Response.ContentType = "application/json";
-                    context.Response.Headers.Add("Unquie-Words", $"{frequency.GetUniqueWords()}");
+                    context.Response.Headers.Add("Unquiet-Words", $"{frequency.GetUniqueWords()}");
                     context.Response.Headers.Add("MostPopular-Word", $"{frequency.GetMostPopularWord()}");
 
                     string output = JsonSerializer.Serialize(frequency.GetDictionary());

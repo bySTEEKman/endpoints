@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2XPHMOXIovsR4yKQts4DSy6ou88vccdbFM5YLJHMUkkQkboHEQvLgQaQOFqPdMRpS+JVG7i3H/eIUROZmrMljg==",
+  "dgSpecHash": "YmO9RvBhIQiqNkUav0WsJP5KwO2GsyCR0HbDc1rKEM99kAopWoiSJOHFiBaybtHQLs8cxnjatHQGyhuBIsZkPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\InterLinkCamp\\endpoints\\endpoints.csproj",
+  "projectFilePath": "/home/intern/Desktop/HTTP/endpoints/endpoints.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
